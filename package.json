@@ -1,0 +1,14 @@
+{
+  "name": "telegram-repost-bot",
+  "version": "1.0.0",
+  "description": "To shame reposters",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Caleb",
+  "license": "ISC",
+  "dependencies": {
+    "node-telegram-bot-api": "^0.30.0"
+  }
+}
