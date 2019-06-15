@@ -1,5 +1,5 @@
 var TelegramBot = require('node-telegram-bot-api')
-var token = '714769451:AAHde4NBzKFwoQ3_SB_J4VP8jjh-iY0H83Y'
+var token = ''
 var bot = new TelegramBot(token, {polling: true})
 
 bot.onText(/\/repost (.+)/, (msg, match) => {
