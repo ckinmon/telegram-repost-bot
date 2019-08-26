@@ -10,7 +10,7 @@ The Repost Bot uses the Telegram API, Node.js, and the Node Telegram package.
 
 1. Download Telegram and open the application on your device. 
 2. Perform a global search for the bot by typing "ReeepostBot" and add it to your contacts or your group.
-3. When a user reposts the same content, call Repost Bot by typing "/repost users_name". Repost Bot will continuously scan messages until the keyword "/repost" is mentioned followed by the culprit's name. Then Repost Bot will send a message to the channel that includes the name of the culprit.
+3. When a user reposts the same content, call Repost Bot by typing "/repost users_name". Repost Bot will continuously scan messages until the keyword "/repost" is mentioned followed by the culprit's name. Then Repost Bot will send a not-so-subtle message to the channel that notifies everyone of the repost and the name of the culprit.
 
 ## Running the tests
 
